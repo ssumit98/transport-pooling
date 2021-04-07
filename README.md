@@ -40,3 +40,7 @@
 6. Create new Database and name it transport.
 7. import transport.sql file from the folder.
 8. now open localhost in browser and browse the folder, the webapp will be running... ✌✌✌
+
+
+## ScreenShot: 
+![Capture](https://user-images.githubusercontent.com/82075825/113882250-c2b15b80-97da-11eb-9b78-5f9e07a93093.PNG)
